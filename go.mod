@@ -1,7 +1,7 @@
 module github.com/rexitorg/sample-cloud-pub-sub
 
 require (
-	cloud.google.com/go v0.33.1 // indirect
+	cloud.google.com/go v0.33.1
 	github.com/googleapis/gax-go v2.0.2+incompatible // indirect
 	github.com/kelseyhightower/envconfig v1.3.0
 	go.opencensus.io v0.18.0 // indirect
